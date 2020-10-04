@@ -1,6 +1,12 @@
 foo_musicbrainz
 ===============
 
+# This repository is not maintained anymore.
+
+## Please check out [this fork](https://github.com/kbuffington/foo_musicbrainz) instead.
+
+---
+
 **foo_musicbrainz** is a component for [foobar2000](http://www.foobar2000.org/) media player. It can tag files by fetching data from [MusicBrainz](http://musicbrainz.org/).
 
 Some notable features:
